@@ -1,8 +1,10 @@
 # Purpose of this Repo
 
+**Hosting Assets**
+
 This repository is being used solely for the purposes of hosting assets to be embedded on [gabrielscott.io](https://gabrielscott.io)
 
-gabrielscott.io is being run from a separate server. Specifically a GCP Compute Engine Virtual Machine with somewhat limited processing power, due to being part of their 'free tier'.
+gabrielscott.io is being run from a separate server. Specifically a GCP Compute Engine VM with somewhat limited processing power, due to being part of their 'free tier'.
 
 
 This way, I can use GitHub's servers to share the work load when it comes to hosting images or other files.
